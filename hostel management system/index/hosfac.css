@@ -1,0 +1,23 @@
+.fac{
+    background-image:linear-gradient(rgba(56, 149, 168, 0.7),rgba(4,9,10,0.7)),url(ilango.jpg);
+    background-color: aqua;
+    background-position: center;
+    position: relative;
+    min-height: 100vh;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+ @media (max-width:300px) {
+    .fac{
+      background-size: cover;
+    }
+    
+} 
+.boot{
+    background-color: aqua;
+}
+.uni{
+    margin-left: 553px;
+}
